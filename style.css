@@ -1,0 +1,46 @@
+/* table {
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+} */
+
+@import url(w3.css);
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: "100%";
+  list-style-type: none;
+  padding: 0;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+}
+.col-action {
+  width: 30px;
+}
+
+.svg-container {
+  padding: 0;
+  margin: 0;
+  width: 170px;
+}
+
+.svg-icon {
+  width: 170px;
+  height: 170px;
+  display: block;
+}
+.form-container {
+  width: fit-content;
+  margin: auto;
+}
+
+.table-edit {
+  width: 700px;
+}
