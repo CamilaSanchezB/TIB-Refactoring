@@ -8,7 +8,5 @@
     a. https://github.com/
 5. Subir su versión con comentarios y nuevo diseño de vista a un repositorio en su propia cuenta de GitHub. (Todopueden hacerlo desde la misma web)
 
-## GUIA 06
-No iniciada
 
 
